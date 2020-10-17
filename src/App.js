@@ -4,7 +4,7 @@ import "./App.css";
 function App() {
   return (
     <div className="App">
-      <h1>Deploy ReactJS from github</h1>
+      <h1>Deploy ReactJS from github 2</h1>
     </div>
   );
 }
